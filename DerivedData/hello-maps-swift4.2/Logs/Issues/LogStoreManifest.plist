@@ -5,7 +5,31 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>8DD15FBF-8A92-4DB7-A5D2-1FCE460E3C6E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>8DD15FBF-8A92-4DB7-A5D2-1FCE460E3C6E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>signature</key>
+			<string>hello-maps-swift4.2-hhdwiezinljzfoaxlaixodscazbd</string>
+			<key>timeStartedRecording</key>
+			<real>573514108.73556399</real>
+			<key>timeStoppedRecording</key>
+			<real>573514111.26277006</real>
+			<key>title</key>
+			<string>Build target hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>8DD15FBF-8A92-4DB7-A5D2-1FCE460E3C6E</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>

@@ -5,6 +5,703 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>00CB17C4-15F9-4C95-A53F-6C955803BE6D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>00CB17C4-15F9-4C95-A53F-6C955803BE6D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573488385.400383</real>
+			<key>timeStoppedRecording</key>
+			<real>573488452.45596099</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>00CB17C4-15F9-4C95-A53F-6C955803BE6D</string>
+		</dict>
+		<key>15FB8D73-1CD7-43D6-B75D-C8C2C1C315EC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>15FB8D73-1CD7-43D6-B75D-C8C2C1C315EC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573493092.29577696</real>
+			<key>timeStoppedRecording</key>
+			<real>573493150.03260601</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>15FB8D73-1CD7-43D6-B75D-C8C2C1C315EC</string>
+		</dict>
+		<key>17138C69-E22C-448A-AB27-25082D413373</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>17138C69-E22C-448A-AB27-25082D413373.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573489060.668455</real>
+			<key>timeStoppedRecording</key>
+			<real>573489803.12151206</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>17138C69-E22C-448A-AB27-25082D413373</string>
+		</dict>
+		<key>1BAE2E71-9283-4A53-B18E-37385298868B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1BAE2E71-9283-4A53-B18E-37385298868B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573489804.54221201</real>
+			<key>timeStoppedRecording</key>
+			<real>573491204.02252805</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>1BAE2E71-9283-4A53-B18E-37385298868B</string>
+		</dict>
+		<key>2A99DA2D-0EE8-4AFA-842F-2082960CA8DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>2A99DA2D-0EE8-4AFA-842F-2082960CA8DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573511287.71930099</real>
+			<key>timeStoppedRecording</key>
+			<real>573511306.79927301</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>2A99DA2D-0EE8-4AFA-842F-2082960CA8DA</string>
+		</dict>
+		<key>38A751D4-9C1B-42AD-BECF-702A50152563</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>38A751D4-9C1B-42AD-BECF-702A50152563.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573513718.77434099</real>
+			<key>timeStoppedRecording</key>
+			<real>573513763.689152</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>38A751D4-9C1B-42AD-BECF-702A50152563</string>
+		</dict>
+		<key>3F919130-CF58-4BDE-9E42-E0C422401A92</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3F919130-CF58-4BDE-9E42-E0C422401A92.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573488454.60219002</real>
+			<key>timeStoppedRecording</key>
+			<real>573488505.207142</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>3F919130-CF58-4BDE-9E42-E0C422401A92</string>
+		</dict>
+		<key>42169EE8-509D-4C85-B460-594B765A89BC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>42169EE8-509D-4C85-B460-594B765A89BC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573511319.14966094</real>
+			<key>timeStoppedRecording</key>
+			<real>573511426.06587601</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>42169EE8-509D-4C85-B460-594B765A89BC</string>
+		</dict>
+		<key>4464F9A1-D3B6-490C-A0B2-C8E832721C12</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4464F9A1-D3B6-490C-A0B2-C8E832721C12.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573513952.04519701</real>
+			<key>timeStoppedRecording</key>
+			<real>573514059.34923005</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>4464F9A1-D3B6-490C-A0B2-C8E832721C12</string>
+		</dict>
+		<key>4ECFC996-7093-4C70-B1EA-1F223A8EB146</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>4ECFC996-7093-4C70-B1EA-1F223A8EB146.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573513769.46273303</real>
+			<key>timeStoppedRecording</key>
+			<real>573513812.471995</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>4ECFC996-7093-4C70-B1EA-1F223A8EB146</string>
+		</dict>
+		<key>54DA822D-777A-4F18-B5C4-54DA7A2EBCDC</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>54DA822D-777A-4F18-B5C4-54DA7A2EBCDC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573491366.98247194</real>
+			<key>timeStoppedRecording</key>
+			<real>573491436.17279398</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>54DA822D-777A-4F18-B5C4-54DA7A2EBCDC</string>
+		</dict>
+		<key>5764B083-B092-4442-AB5B-AA1EC0D6A1D8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5764B083-B092-4442-AB5B-AA1EC0D6A1D8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573493004.01544404</real>
+			<key>timeStoppedRecording</key>
+			<real>573493021.18329298</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>5764B083-B092-4442-AB5B-AA1EC0D6A1D8</string>
+		</dict>
+		<key>648694C7-240C-4C6D-8D16-360FAECFA161</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>648694C7-240C-4C6D-8D16-360FAECFA161.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573491218.99073899</real>
+			<key>timeStoppedRecording</key>
+			<real>573491300.55156398</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>648694C7-240C-4C6D-8D16-360FAECFA161</string>
+		</dict>
+		<key>6B821E7A-3AFC-44EB-8C7F-25E3F7C72710</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6B821E7A-3AFC-44EB-8C7F-25E3F7C72710.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573511436.08383203</real>
+			<key>timeStoppedRecording</key>
+			<real>573511878.31887996</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>6B821E7A-3AFC-44EB-8C7F-25E3F7C72710</string>
+		</dict>
+		<key>7FA462B8-18F4-43E9-A9F7-6A90C7846F89</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7FA462B8-18F4-43E9-A9F7-6A90C7846F89.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573488637.55446398</real>
+			<key>timeStoppedRecording</key>
+			<real>573488922.73308003</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>7FA462B8-18F4-43E9-A9F7-6A90C7846F89</string>
+		</dict>
+		<key>87497C4D-82F6-4FBB-B1A5-66B63ECA8BD1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>87497C4D-82F6-4FBB-B1A5-66B63ECA8BD1.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573491319.76456594</real>
+			<key>timeStoppedRecording</key>
+			<real>573491342.27660096</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>87497C4D-82F6-4FBB-B1A5-66B63ECA8BD1</string>
+		</dict>
+		<key>8C94E23F-9AC8-45F1-8BF9-DC71AA86CEE8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C94E23F-9AC8-45F1-8BF9-DC71AA86CEE8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573514060.23760796</real>
+			<key>timeStoppedRecording</key>
+			<real>573514104.33887804</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>8C94E23F-9AC8-45F1-8BF9-DC71AA86CEE8</string>
+		</dict>
+		<key>991362A8-C5C5-4237-B4D8-C8A06336CF70</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>991362A8-C5C5-4237-B4D8-C8A06336CF70.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573488952.58262801</real>
+			<key>timeStoppedRecording</key>
+			<real>573489020.56943703</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>991362A8-C5C5-4237-B4D8-C8A06336CF70</string>
+		</dict>
+		<key>9F38CA92-FD51-42E0-9B51-904497D459A7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F38CA92-FD51-42E0-9B51-904497D459A7.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573513835.07919204</real>
+			<key>timeStoppedRecording</key>
+			<real>573513945.09076095</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>9F38CA92-FD51-42E0-9B51-904497D459A7</string>
+		</dict>
+		<key>A20909EF-957E-45FE-9F9A-43A90AD29366</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A20909EF-957E-45FE-9F9A-43A90AD29366.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573511243.99665999</real>
+			<key>timeStoppedRecording</key>
+			<real>573511259.85574198</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>A20909EF-957E-45FE-9F9A-43A90AD29366</string>
+		</dict>
+		<key>AB2CDD03-61A9-4828-823C-F0D7A6FDE10C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB2CDD03-61A9-4828-823C-F0D7A6FDE10C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573512598.88721502</real>
+			<key>timeStoppedRecording</key>
+			<real>573512672.17510295</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>AB2CDD03-61A9-4828-823C-F0D7A6FDE10C</string>
+		</dict>
+		<key>B1E2E9F5-7749-4F0B-9602-FD2EA4B47A93</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B1E2E9F5-7749-4F0B-9602-FD2EA4B47A93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573514111.26776099</real>
+			<key>timeStoppedRecording</key>
+			<real>573514132.80913794</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>B1E2E9F5-7749-4F0B-9602-FD2EA4B47A93</string>
+		</dict>
+		<key>DAFC0EA1-3125-4305-A4B4-81790A97EAAE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>DAFC0EA1-3125-4305-A4B4-81790A97EAAE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573487830.90849698</real>
+			<key>timeStoppedRecording</key>
+			<real>573487850.97801197</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>DAFC0EA1-3125-4305-A4B4-81790A97EAAE</string>
+		</dict>
+		<key>E9994B65-B214-44AA-B915-35F8DC48C492</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E9994B65-B214-44AA-B915-35F8DC48C492.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>hello-maps-swift4.2 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>hello-maps-swift4.2</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>timeStartedRecording</key>
+			<real>573488276.51338005</real>
+			<key>timeStoppedRecording</key>
+			<real>573488376.17288601</real>
+			<key>title</key>
+			<string>Debug hello-maps-swift4.2</string>
+			<key>uniqueIdentifier</key>
+			<string>E9994B65-B214-44AA-B915-35F8DC48C492</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
