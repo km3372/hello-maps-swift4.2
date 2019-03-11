@@ -198,9 +198,16 @@ SWIFT_CLASS("_TtC19hello_maps_swift4_211AppDelegate")
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
+
+SWIFT_CLASS("_TtC19hello_maps_swift4_216CoffeeAnnotation")
+@interface CoffeeAnnotation : MKPointAnnotation
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+@end
+
 @class MKMapView;
 @class UISegmentedControl;
-@class MKUserLocation;
+@protocol MKAnnotation;
+@class MKAnnotationView;
 @class NSBundle;
 @class NSCoder;
 
@@ -210,7 +217,8 @@ SWIFT_CLASS("_TtC19hello_maps_swift4_214ViewController")
 @property (nonatomic, weak) IBOutlet UISegmentedControl * _Null_unspecified mapTypeSegmentedControl;
 - (void)viewDidLoad;
 - (void)mapTypeChangedWithSegmentControl:(UISegmentedControl * _Nonnull)segmentControl;
-- (void)mapView:(MKMapView * _Nonnull)mapView didUpdateUserLocation:(MKUserLocation * _Nonnull)userLocation;
+- (IBAction)addAnnotationButtonPressed;
+- (MKAnnotationView * _Nullable)mapView:(MKMapView * _Nonnull)mapView viewForAnnotation:(id <MKAnnotation> _Nonnull)annotation SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end

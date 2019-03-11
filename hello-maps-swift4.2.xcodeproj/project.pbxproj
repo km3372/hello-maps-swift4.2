@@ -12,6 +12,8 @@
 		30B0EEDC222EBAC100C98E40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30B0EEDA222EBAC100C98E40 /* Main.storyboard */; };
 		30B0EEDE222EBAC200C98E40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30B0EEDD222EBAC200C98E40 /* Assets.xcassets */; };
 		30B0EEE1222EBAC200C98E40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30B0EEDF222EBAC200C98E40 /* LaunchScreen.storyboard */; };
+		30B0EEE92230496100C98E40 /* CoffeeAnnotation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30B0EEE82230496100C98E40 /* CoffeeAnnotation.swift */; };
+		30B0EEEB22304A1800C98E40 /* coffee-pin.png in Resources */ = {isa = PBXBuildFile; fileRef = 30B0EEEA22304A1800C98E40 /* coffee-pin.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		30B0EEDD222EBAC200C98E40 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		30B0EEE0222EBAC200C98E40 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30B0EEE2222EBAC200C98E40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		30B0EEE82230496100C98E40 /* CoffeeAnnotation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoffeeAnnotation.swift; sourceTree = "<group>"; };
+		30B0EEEA22304A1800C98E40 /* coffee-pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "coffee-pin.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,10 +60,12 @@
 			children = (
 				30B0EED6222EBAC100C98E40 /* AppDelegate.swift */,
 				30B0EED8222EBAC100C98E40 /* ViewController.swift */,
+				30B0EEEA22304A1800C98E40 /* coffee-pin.png */,
 				30B0EEDA222EBAC100C98E40 /* Main.storyboard */,
 				30B0EEDD222EBAC200C98E40 /* Assets.xcassets */,
 				30B0EEDF222EBAC200C98E40 /* LaunchScreen.storyboard */,
 				30B0EEE2222EBAC200C98E40 /* Info.plist */,
+				30B0EEE82230496100C98E40 /* CoffeeAnnotation.swift */,
 			);
 			path = "hello-maps-swift4.2";
 			sourceTree = "<group>";
@@ -123,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30B0EEE1222EBAC200C98E40 /* LaunchScreen.storyboard in Resources */,
+				30B0EEEB22304A1800C98E40 /* coffee-pin.png in Resources */,
 				30B0EEDE222EBAC200C98E40 /* Assets.xcassets in Resources */,
 				30B0EEDC222EBAC100C98E40 /* Main.storyboard in Resources */,
 			);
@@ -137,6 +144,7 @@
 			files = (
 				30B0EED9222EBAC100C98E40 /* ViewController.swift in Sources */,
 				30B0EED7222EBAC100C98E40 /* AppDelegate.swift in Sources */,
+				30B0EEE92230496100C98E40 /* CoffeeAnnotation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -30,13 +30,26 @@
                                     <segment title="Hybrid"/>
                                 </segments>
                             </segmentedControl>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1Pb-HS-k9N">
+                                <rect key="frame" x="113" y="593" width="149" height="30"/>
+                                <color key="backgroundColor" red="0.58188301320000002" green="0.21569153669999999" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <state key="normal" title="Add Annotation">
+                                    <color key="titleColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                </state>
+                                <connections>
+                                    <action selector="addAnnotationButtonPressed" destination="BYZ-38-t0r" eventType="touchUpInside" id="Q1i-lO-vhn"/>
+                                </connections>
+                            </button>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="bif-wF-nz4" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" id="1Nz-2o-Jpu"/>
                             <constraint firstItem="jcl-th-EV5" firstAttribute="centerX" secondItem="bif-wF-nz4" secondAttribute="centerX" id="23y-s0-fZ2"/>
+                            <constraint firstAttribute="bottom" secondItem="1Pb-HS-k9N" secondAttribute="bottom" constant="44" id="Hei-xg-zQr"/>
                             <constraint firstItem="jcl-th-EV5" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="96" id="Kad-kj-jqZ"/>
+                            <constraint firstItem="1Pb-HS-k9N" firstAttribute="centerX" secondItem="jcl-th-EV5" secondAttribute="centerX" id="N4S-tS-7Ab"/>
                             <constraint firstItem="jcl-th-EV5" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="20" id="OPX-lG-d7j"/>
+                            <constraint firstItem="1Pb-HS-k9N" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="113" id="ZNk-zN-OaQ"/>
                             <constraint firstItem="bif-wF-nz4" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="brF-Qy-Z6g"/>
                             <constraint firstAttribute="trailing" secondItem="bif-wF-nz4" secondAttribute="trailing" id="og4-0d-F5X"/>
                             <constraint firstItem="bif-wF-nz4" firstAttribute="bottom" secondItem="6Tk-OE-BBY" secondAttribute="bottom" id="ubm-pg-cgS"/>

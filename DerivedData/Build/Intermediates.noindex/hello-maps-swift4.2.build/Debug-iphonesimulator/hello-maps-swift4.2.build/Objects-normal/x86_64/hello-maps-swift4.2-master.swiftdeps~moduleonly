@@ -1,6 +1,7 @@
 version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
 options: "8ef2018e619fa281542e1db7b797db3f"
-build_time: [1551821308, 775053000]
+build_time: [1552322112, 977413000]
 inputs:
-  "/Users/kennethmoody/Desktop/iOS projects/hello-maps-swift4.2/hello-maps-swift4.2/ViewController.swift": [1551821019, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/hello-maps-swift4.2/hello-maps-swift4.2/ViewController.swift": [1552322112, 0]
   "/Users/kennethmoody/Desktop/iOS projects/hello-maps-swift4.2/hello-maps-swift4.2/AppDelegate.swift": [1551795009, 0]
+  "/Users/kennethmoody/Desktop/iOS projects/hello-maps-swift4.2/hello-maps-swift4.2/CoffeeAnnotation.swift": [1551962575, 0]
